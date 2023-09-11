@@ -30,4 +30,4 @@ temp2 = list[2];
 swap(temp1, temp2);
 cout << value << " " << list[2] << endl;
 value = temp1;
-list[2] = temp2;
+list[2] = temp2;}
